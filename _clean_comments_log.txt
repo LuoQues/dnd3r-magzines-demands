@@ -1,0 +1,2 @@
+完成: 处理 745 个, 已改动 248 个, 无需改动 497 个, 失败 0 个。
+其中 <strong> 改写为 <b> 共 0 处; 删除 class="print_options" 的 <div> 共 0 处; 删除 id="footer" 的 <div> 共 0 处; 删除隐形 <a> 外链 共 0 处; 删除 id="title" 元素 共 0 处; 删除 id="linktree" 元素 共 0 处; 将 <br> 重排为 <p> 共处理 0 处 <br>; 清除“打印本页 - ”前缀 共 0 处; 剥离论坛包裹 div（#posts/.postheader/.postbody）共 0 个。
